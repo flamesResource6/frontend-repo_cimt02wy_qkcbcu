@@ -1,0 +1,17 @@
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="40" rx="8" fill="#0A0A0A"/>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="160" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3001FF"/>
+      <stop offset="1" stop-color="#BBFF00"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#f1)">
+    <text x="16" y="27" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="20" fill="url(#g1)">RIM WALLET</text>
+  </g>
+  <defs>
+    <filter id="f1" x="0" y="0" width="160" height="40" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+    </filter>
+  </defs>
+</svg>
