@@ -1,5 +1,6 @@
 import Navbar from '../components/Navbar'
 import Hero from '../components/Hero'
+import Features from '../components/Features'
 import Footer from '../components/Footer'
 
 export default function Home(){
@@ -9,6 +10,7 @@ export default function Home(){
       <Navbar />
       <main id="main">
         <Hero />
+        <Features />
         <section id="early" className="py-20">
           <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <h2 className="text-2xl font-semibold tracking-tight" style={{color:'#EEEEEE'}}>Request early access</h2>
